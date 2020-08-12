@@ -4,7 +4,7 @@
 
 # Sobre o Bot Caveirão
 
-Caveirão é um bot feito especialmente para o Discord de Moderação, Diversão, Utilitário, entre outros.
+Caveirão é um bot feito especialmente para o Discord que contém moderação, diversão, utilitários e outros.
 
 
 # Motivo de tudo isso
