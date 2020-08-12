@@ -1,0 +1,23 @@
+{
+  "name": "caveirao",
+  "version": "1.0.0",
+  "description": "Caveirão, o melhor Bot para o Discord.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node.",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darrow",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "djs-commands": "^1.2.2",
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "jimp": "^0.6.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "nodemon": "^1.18.10",
+    "superagent": "^4.1.0"
+  }
+}
