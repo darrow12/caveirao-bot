@@ -7,12 +7,9 @@
 Caveirão é um bot feito especialmente para o Discord de Moderação, Diversão, Utilitário, entre outros.
 
 
-# Caveirão irá morrer?
+# Motivo de tudo isso
 
-Infelizmente, devido Códigos quebrados do meu bot para o Discord que infelizmente não funciona mais por causa da versão.
-A biblioteca discord.js estava na v11 (versão atual na época que o bot foi feito), porém, a versão foi descontinuada e com isso, lançaram a v12, que vem com grandes mudanças
-O Discord recentemente migrou de domínio, o que antes era discordapp.com e agora é apenas discord.com, e com isso em mente, a API foi migrada completamente para discord.com
-todas as integrações que eram feitas pela api do discord atraves do dominio discordapp.com não vai ter mais suporte ao dominio a partir do dia 7 de novembro, e claro, tudo em favor do dominio discord.com
+Não é que eu nunca quis colocar o código do meu bot em open-source, eu só não queria deixar ele incompleto quando fazer um repositório. Enfim, isso não vem ao caso. O motivo disso é que infelizmente, o bot terá que ser descontinuado por questões técnicas da biblioteca do Discord.JS, e devido a isso, muito dos códigos neste momento podem estar "quebrados", ou seja, podem não estar funcionando agora e talvez nem futuramente. A biblioteca Discord.JS estava na v11 (versão atual na época que o bot foi desenvolvido), porém, a versão foi descontinuada, e com isso, lançaram a v12, que vem com grandes mudanças, com códigos reescritos e afins. Um tempo atrás, o Discord migrou de domínio, o que antes era discordapp.com e agora é apenas discord.com, e com isso, a API do Discord.JS foi migrada completamente para discord.com, fazendo com que todas as integrações que eram feitas pela API do Discord através do domínio discordapp.com não tenham mais suporte ao domínio a partir do dia 7 de novembro. E claro, tudo em favor do novo domínio, o discord.com.
 
 
 # Então qual é a relação com a biblioteca Discord.JS?
@@ -22,10 +19,12 @@ Para que haja uma certa esperança, os desenvolvedores da Discord.JS devem atual
 # Agradecimentos especiais
 
 - <a href="https://www.youtube.com/channel/UC4PGTvhATBL6z1Dz5AQgi_A">Pedro Ricardo - PR</a>
+- <a href="https://www.youtube.com/channel/UCNXt2MrZaqfIBknamqwzeXA">{TheSourceCode}</a>
+- <a href="https://www.youtube.com/channel/UCpGGFqJP9vYvzFudqnQ-6IA">[MenuDocs]</a>
 - Vários canais no YouTube que eu consumi horas vendo vídeos sobre tutoriais sobre JavaScript
 - Vários repositórios de developers que deixaram em open-source o código de seus bots para estudo
 
-Infelizmente não consigo deixar créditos de todo o conteúdo que eu consumi, mas no geral é isso.
+Infelizmente não consigo deixar créditos de todo o conteúdo que eu consumi, tanto é que alguns eu nem lembro, mas no geral é isso.
 
 # Mensagem especial do criador do Caveirão
 
