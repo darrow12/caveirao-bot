@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/rOeyrQj.png" width="100%" alt="Logo">
+    <img src="https://i.imgur.com/yPSisfy.png" width="100%" alt="Logo">
 </p>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Zs7f1nY"  ><a href="">Caveirão info</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
