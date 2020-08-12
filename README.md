@@ -4,7 +4,11 @@
 
 # Sobre o Bot Caveirão
 
-Caveirão é um bot feito especialmente para o Discord que contém moderação, diversão, utilitários e outros. Adicione ele ao seu servidor enquanto ele ainda está vivo 🥺 Clique <a href="https://discord.com/oauth2/authorize?=&client_id=542114953474342942&scope=bot&permissions=2146958847">aqui</a> para adicionar o <b>Caveirão</b> ao seu servidor!
+Caveirão é um bot feito especialmente para o Discord que contém moderação, diversão, utilitários e outros. 
+
+Adicione ele ao seu servidor enquanto ele ainda está vivo 🥺 
+
+Clique <a href="https://discord.com/oauth2/authorize?=&client_id=542114953474342942&scope=bot&permissions=2146958847">aqui</a> para adicionar o <b>Caveirão</b> ao seu servidor!
 
 
 # Motivo de tudo isso
