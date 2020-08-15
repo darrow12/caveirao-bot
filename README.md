@@ -10,6 +10,7 @@ Adicione ele ao seu servidor enquanto ele ainda está vivo 🥺
 
 Clique <a href="https://discord.com/oauth2/authorize?=&client_id=542114953474342942&scope=bot&permissions=2146958847">aqui</a> para adicionar o <b>Caveirão</b> ao seu servidor!
 
+Lista de comandos do Caveirão: https://pastebin.com/YZeqDqQf
 
 # Motivo de tudo isso
 
@@ -19,6 +20,10 @@ Não é que eu nunca quis colocar o código do meu bot em open-source, eu só n�
 # Mas qual é a relação com a biblioteca Discord.JS?
 
 Para que haja uma certa esperança, os desenvolvedores da Discord.JS devem atualizar a v11, o que né, <strong>convenhamos</strong>, é um pouco improvável de acontecer, já que eles descontinuaram a versão e deram início a v12, uma nova versão cheia de modificações. Com tudo isso ocorrendo, é notório que, se não houver uma atualização, todos os bots ou módulos hospedados em npm que seja integrado no Discord e utilize a v11 e/ou faça referência à API do Discord através do domínio antigo <b>não irão funcionar mais</b> a partir do dia <b>7 de Novembro de 2020</b>.
+
+# Observações
+
+Alguns códigos são "copiados" porque eu estava testando apenas como funcionava, portanto, alguns códigos não são de minha autoria. Afinal, eu tava começando a aprender, e sentir essa sensação de cópia é normal, mas deixo claro desde já que servia apenas para aprendizado.
 
 # Agradecimentos especiais
 
