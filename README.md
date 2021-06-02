@@ -2,6 +2,10 @@
     <img src="https://i.imgur.com/yPSisfy.png" width="50%" alt="Logo">
 </p>
 
+<!-- <p align="center">
+    <img src="https://i.imgur.com/yPSisfy.png" width="50%" alt="Logo">
+</p>
+
 # Sobre o Bot Caveirão
 
 Caveirão é um bot feito especialmente para o Discord que contém moderação, diversão e outros.
@@ -38,3 +42,4 @@ Infelizmente não consigo deixar créditos de todo o conteúdo que eu consumi, t
 # Comentários adicionais
 
 E já que tudo isso vai acabar, decidi colocar todo o código do meu bot (que ainda estava em desenvolvimento) em um repositório aqui do meu GitHub, deixando-o assim, descontinuado até o dia em que ele poderá descansar em paz. Entretanto, ainda não é o fim.. Eu, como criador do Caveirão, lhe prometo que irei estudar a nova biblioteca e irei atualizar esse bot que me dá tanto orgulho, afinal, ele foi literalmente o meu primeiro projeto de programação, e, como o primeiro, ele não deve ser deixado de lado, ainda mais quando ainda pode ser atualizado e reutilizado.
+-->
