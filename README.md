@@ -22,3 +22,15 @@ Apesar de tudo, hoje em dia, o Caveirão se encontra offline por conta da versã
 
 E sim, este projeto foi o contruído sendo o primeiro contato que eu tive com esse mundo vasto que é a programação. Antes deste Bot, eu nem era informado que programação existia ou coisa parecida, então, em um dia qualquer, eu vi um vídeo do canal do <a href="https://www.youtube.com/channel/UC4PGTvhATBL6z1Dz5AQgi_A">Pedro Ricardo - PR</a> e comecei a codar.
 Na época, ele não tinha muitos tutoriais, então foi aí que eu me aventurei em outros mundos, como fóruns e o próprio GitHub, que foi uma base muito forte para que eu pudesse aprender muitas coisas apenas copiando e testando código de outros desenvolvedores. E eu sei, não é a melhor prática do mundo — ou talvez seja, mas foi assim que eu sempre aprendi antes de realmente ceder aos cursos on-line, como a <a href="https://rocketseat.com.br/">Rocketseat</a>, recomendada também pelo Pedro Ricardo, que foi e ainda é uma fonte de conhecimento absurdo e essencial para que eu continuasse nos estudos e para que eu soubesse de tudo que sei hoje em dia.
+
+<br />
+
+## Resumo
+
+- O Bot não funciona mais porque o Discord migrou o domínio;
+- Este repositório é do meu primeiro contato com a programação no final de 2018.
+
+<br />
+<br />
+
+<h3 align="center">Beijos do Darrow 😘</h3>
