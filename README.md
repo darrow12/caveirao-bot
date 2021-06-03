@@ -16,8 +16,8 @@ Caveirão é apenas mais um Bot feito para o Discord para que o mesmo ajude os m
 
 ## Primeiros códigos
 
-Sim, este projeto foi o contruido sendo o primeiro contato que eu tive com esse mundo vasto que é a programação. Antes deste, nunca nem era fui informado que programação existia ou coisa parecida, então, em um dia qualquer, eu vi um vídeo do canal do <a href="https://www.youtube.com/channel/UC4PGTvhATBL6z1Dz5AQgi_A">Pedro Ricardo - PR</a> e comecei a codar.
-Na época, ele não tinha muitos tutoriais, então foi aí que eu me aventurei em outros mundos, como o próprio GitHub, que foi uma base muito forte para que eu pudesse aprender muitas coisas apenas copiando e testando código de outros desenvolvedores.
+Sim, este projeto foi o contruído sendo o primeiro contato que eu tive com esse mundo vasto que é a programação. Antes deste Bot, eu nem era informado que programação existia ou coisa parecida, então, em um dia qualquer, eu vi um vídeo do canal do <a href="https://www.youtube.com/channel/UC4PGTvhATBL6z1Dz5AQgi_A">Pedro Ricardo - PR</a> e comecei a codar.
+Na época, ele não tinha muitos tutoriais, então foi aí que eu me aventurei em outros mundos, como fóruns e o próprio GitHub, que foi uma base muito forte para que eu pudesse aprender muitas coisas apenas copiando e testando código de outros desenvolvedores. E eu sei, não é a melhor prática do mundo — ou talvez seja, mas foi assim que eu sempre aprendi antes de realmente ceder aos cursos on-line, como a <a href="https://rocketseat.com.br/">Rocketseat</a>, recomendada também pelo Pedro Ricardo, que foi e ainda é uma fonte de conhecimento absurdo e essencial para que eu continuasse nos estudos e para que eu soubesse de tudo que sei hoje em dia.
 
 <!-- 
 # Sobre o Bot Caveirão
