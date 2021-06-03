@@ -1,6 +1,23 @@
 <p align="center">
-    <img src="https://i.imgur.com/yPSisfy.png" width="30%" alt="Logo">
+    <img src="https://i.imgur.com/yPSisfy.png" width="42%" alt="Logo">
 </p>
+
+<p align="center">Caveirão, o Bot mais (in)útil do Discord.</p>
+<p align="center">Clique <a href="https://discord.com/oauth2/authorize?=&client_id=542114953474342942&scope=bot&permissions=2146958847">aqui</a> para adicioná-lo!</p>
+
+<br />
+<br />
+
+## Sobre o Bot
+
+Caveirão é apenas mais um Bot feito para o Discord para que o mesmo ajude os membros nas mais diversas situações com seus incríveis 45 comandos, porém, todos eles são totalmente opostos do termo "útil", o que foge um pouco da proposta, mas também segue outra de ser "engraçado" e com clima abrasileirado.
+
+<br />
+
+## Primeiros códigos
+
+Sim, este projeto foi o contruido sendo o primeiro contato que eu tive com esse mundo vasto que é a programação. Antes deste, nunca nem era fui informado que programação existia ou coisa parecida, então, em um dia qualquer, eu vi um vídeo do canal do <a href="https://www.youtube.com/channel/UC4PGTvhATBL6z1Dz5AQgi_A">Pedro Ricardo - PR</a> e comecei a codar.
+Na época, ele não tinha muitos tutoriais, então foi aí que eu me aventurei em outros mundos, como o próprio GitHub, que foi uma base muito forte para que eu pudesse aprender muitas coisas apenas copiando e testando código de outros desenvolvedores.
 
 <!-- 
 # Sobre o Bot Caveirão
@@ -9,7 +26,7 @@ Caveirão é um bot feito especialmente para o Discord que contém moderação, 
 
 Adicione ele ao seu servidor enquanto ele ainda está vivo 🥺 
 
-Clique <a href="https://discord.com/oauth2/authorize?=&client_id=542114953474342942&scope=bot&permissions=2146958847">aqui</a> para adicionar o <b>Caveirão</b> ao seu servidor!
+
 
 Lista de comandos do Caveirão: https://pastebin.com/YZeqDqQf
 
