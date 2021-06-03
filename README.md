@@ -1,11 +1,8 @@
 <p align="center">
-    <img src="https://i.imgur.com/yPSisfy.png" width="50%" alt="Logo">
+    <img src="https://i.imgur.com/yPSisfy.png" width="30%" alt="Logo">
 </p>
 
-<!-- <p align="center">
-    <img src="https://i.imgur.com/yPSisfy.png" width="50%" alt="Logo">
-</p>
-
+<!-- 
 # Sobre o Bot Caveirão
 
 Caveirão é um bot feito especialmente para o Discord que contém moderação, diversão e outros.
