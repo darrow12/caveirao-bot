@@ -33,4 +33,4 @@ Na época, ele não tinha muitos tutoriais, então foi aí que eu me aventurei e
 <br />
 <br />
 
-Beijos do Darrow 😘
+<h3 align="center">Beijos do Darrow 😘</h3>
